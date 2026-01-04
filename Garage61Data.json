@@ -1,24 +1,1354 @@
 {
-  "version": 1,
+  "version": 2,
 
   "tracks": {
-    "algarve gp": 425,
-    "algarve gpchicane": 428
+    "adelaide": 498,
+	"algarve gp": 425,
+	"algarve gpchicane": 428,
+	"algarve moto": 431,
+	"algarve motochicane": 434,
+	"california competition": 297,
+	"california interior": 298,
+	"california moto": 323,
+	"california oval": 184,
+	"mexicocity ev": 489,
+	"mexicocity gp": 485,
+	"mexicocity gphistoric": 486,
+	"mexicocity national": 487,
+	"mexicocity nationalhistoric": 488,
+	"mexicocity oval": 490,
+	"mexicocity ovalstadium": 491,
+	"mugello short": 419,
+	"mugello gp": 418,
+	"imola gp": 53,
+	"imola moto": 287,
+	"interlagos gp": 67,
+	"interlagos moto": 267,
+	"monza combinedchicanes": 232,
+	"monza historic": 266,
+	"monza historicSecondChicane": 185,
+	"monza nochicane": 234,
+	"monza gpSecondChicane": 128,
+	"monza full": 77,
+	"monza junior": 150,
+	"monza ovalLeft": 120,
+	"monza oval": 200,
+	"barber full": 116,
+	"barber shorta": 250,
+	"barber shortb": 351,
+	"barkriver": 174,
+	"brandshatch grandprix": 36,
+	"brandshatch indy": 153,
+	"brandshatch rallycross": 186,
+	"bristol dirt 2022": 374,
+	"bristol dirt": 170,
+	"bristol": 219,
+	"bristol fullpit": 197,
+	"cadwell club": 449,
+	"cadwell full": 448,
+	"cadwell moto": 450,
+	"cadwell woodlands": 451,
+	"mosport": 83,
+	"cedarlake": 227,
+	"skidpad": 58,
+	"charlotte infieldrc": 308,
+	"charlotte legendsoval": 296,
+	"charlotte quadoval": 72,
+	"charlotte fullroadcourse": 182,
+	"charlotte 2018 legendsoval": 161,
+	"charlotte 2025 legendsoval": 472,
+	"charlotte 2018 legendsrclong": 202,
+	"charlotte 2025 legendsrclong": 466,
+	"charlotte 2018 legendsrcmed": 275,
+	"charlotte 2025 legendsrc2025": 465,
+	"charlotte 2018 legendsrcshort": 224,
+	"charlotte 2025 legendsrcshort": 467,
+	"charlotte 2018 oval": 43,
+	"charlotte 2025 oval": 471,
+	"charlotte 2018 2019 rallycrosslong": 112,
+	"charlotte 2025 rallycrosslong": 473,
+	"charlotte 2018 2019 roval": 468,
+	"charlotte 2025 roval2025": 469,
+	"charlotte 2018 roval": 103,
+	"charlotte 2025 roval2019": 78,
+	"charlotte 2018 rovallong": 249,
+	"charlotte 2025 rovalnochicanes": 470,
+	"chicago 2023": 408,
+	"chicago": 245,
+	"chicagoland": 124,
+	"chilibowl": 319,
+	"barcelona club": 313,
+	"barcelona gp": 76,
+	"barcelona historic": 101,
+	"barcelona moto": 126,
+	"barcelona national": 236,
+	"barcelona rallycross": 196,
+	"ledenon": 413,
+	"magnycours grandprix": 389,
+	"spa 2024 bike": 447,
+	"spa 2024 low": 445,
+	"spa low": 59,
+	"spa 2024 combined": 446,
+	"spa combined": 52,
+	"spa 2024 up": 444,
+	"spa up": 65,
+	"lemans full": 95,
+	"lemans nochicane": 195,
+	"montreal": 90,
+	"cota east": 317,
+	"cota gp": 175,
+	"": 492,
+	"cota west": 204,
+	"zandvoort chicane": 348,
+	"zandvoort club": 312,
+	"zandvoort grandprix": 71,
+	"zandvoort national": 263,
+	"zandvoort oostelijk": 310,
+	"zandvoort 2023 gp": 409,
+	"zandvoort 2023 gpchicane": 410,
+	"zandvoort 2023 nationaal": 411,
+	"zandvoort 2023 ostelijk": 412,
+	"zolder 2024 alt": 70,
+	"zolder 2024 gp": 61,
+	"jerez gp": 398,
+	"jerez moto": 399,
+	"navarra speedlong": 436,
+	"navarra speedmedium": 437,
+	"navarra speedshort": 438,
+	"concordhalf": 87,
+	"crandon": 143,
+	"crandon short": 181,
+	"darlington": 141,
+	"daytona 2011 bike": 246,
+	"daytona bike": 211,
+	"daytona 2011 roadnascar2020": 152,
+	"daytona 2011 oval": 39,
+	"daytona oval": 85,
+	"daytona 2011 road": 105,
+	"daytona road": 51,
+	"daytona 2011 short": 282,
+	"daytona short": 295,
+	"daytona rallycross long nojoker": 390,
+	"daytona rallycross short nojoker": 391,
+	"daytona rallycross long": 41,
+	"daytona rallycross short": 97,
+	"belleisle": 131,
+	"donington gp": 64,
+	"donington national": 86,
+	"dover": 226,
+	"atlanta legendsoval": 285,
+	"atlanta 2022 oval": 379,
+	"atlanta quadoval": 166,
+	"atlanta rallycross long": 206,
+	"atlanta rallycross short": 233,
+	"atlanta roadcourse": 294,
+	"eldora": 155,
+	"fairbury": 307,
+	"pevely": 358,
+	"wildhorse": 242,
+	"fiveflags": 208,
+	"fuji gp": 376,
+	"fuji nochicane": 377,
+	"hickory": 293,
+	"hockenheim gp": 171,
+	"hockenheim nationalA": 177,
+	"hockenheim nationalB": 179,
+	"hockenheim outer": 194,
+	"hockenheim peceast": 330,
+	"hockenheim pechandling": 327,
+	"hockenheim pecouter": 328,
+	"hockenheim pecwest": 331,
+	"hockenheim shortA": 180,
+	"hockenheim shortB": 290,
+	"homestead ovalindy": 271,
+	"homestead oval": 138,
+	"homestead roada": 264,
+	"homestead roadb": 162,
+	"hungaroring": 291,
+	"husets": 452,
+	"indianapolis motogp": 316,
+	"indianapolis 2022 oval": 384,
+	"indianapolis ovalindypit": 210,
+	"indianapolis 2022 ovalnascar": 442,
+	"indianapolis oval": 149,
+	"indianapolis 2022 road": 380,
+	"indianapolis road": 189,
+	"iowa inflegends": 368,
+	"iowa road": 340,
+	"iowa legends": 367,
+	"iowa 2025 oval": 463,
+	"iowa oval": 117,
+	"iowa rallycross": 191,
+	"iracingss": 198,
+	"irwindale figureeight": 251,
+	"irwindale figureeightjump": 173,
+	"irwindale inner": 346,
+	"irwindale outer": 212,
+	"irwindale outerinner": 300,
+	"kansas short": 347,
+	"kansas oval": 214,
+	"kansas full": 256,
+	"kentucky legend": 314,
+	"kentucky oval": 145,
+	"kentucky 2020 oval": 286,
+	"kern oval": 414,
+	"kern dirtmini": 417,
+	"kern dirt": 415,
+	"kern legends": 416,
+	"knockhill international": 325,
+	"knockhill internationalrev": 334,
+	"knockhill national": 335,
+	"knockhill nationalrev": 345,
+	"knockhill rallycross": 332,
+	"knockhill trioval": 341,
+	"knoxville": 157,
+	"kokomo": 231,
+	"kokomo tiresout": 429,
+	"langley": 129,
+	"lanier": 46,
+	"lanier dirt": 38,
+	"lankebanen club": 289,
+	"lankebanen hellrx": 123,
+	"lankebanen rallyshort": 342,
+	"lankebanen road roadlong": 169,
+	"lankebanen road roadshort": 369,
+	"vegas inflegends": 363,
+	"vegas legends": 355,
+	"vegas oval": 167,
+	"vegas roadcombined": 343,
+	"vegas roadlong": 252,
+	"vegas roadshort": 364,
+	"lernerville": 217,
+	"limaland": 98,
+	"limerock 2019 chicanes": 176,
+	"limerock 2019 classic": 31,
+	"limerock 2019 gp": 60,
+	"limerock 2019 school": 426,
+	"limerock 2019 chicanewestb": 187,
+	"lincoln": 388,
+	"longbeach": 104,
+	"lacoliseum": 349,
+	"irp": 305,
+	"irp rallycross": 228,
+	"wheatland": 383,
+	"wheatland road": 499,
+	"martinsville": 142,
+	"miami exmarinaloop": 496,
+	"miami extendedmialoop": 495,
+	"miami gp": 497,
+	"miami marinaloop": 493,
+	"miami mialoop": 494,
+	"michigan2018": 222,
+	"michigan2014": 147,
+	"midohio altoval": 269,
+	"midohio chicane": 304,
+	"midohio full": 63,
+	"midohio oval": 370,
+	"midohio short": 255,
+	"millbridge": 423,
+	"misano club": 433,
+	"misano gp": 424,
+	"misano historicgp": 432,
+	"misano gp2007": 435,
+	"misano truck": 430,
+	"twinring east": 288,
+	"twinring fullrc": 136,
+	"twinring oval": 221,
+	"twinring west": 362,
+	"aragon gp": 400,
+	"aragon moto": 403,
+	"aragon nationalmoto": 404,
+	"aragon national": 401,
+	"aragon outer": 405,
+	"aragon tc": 407,
+	"aragon west": 402,
+	"oschersleben alt": 385,
+	"oschersleben bcourse": 386,
+	"oschersleben ccourse": 387,
+	"oschersleben gp": 381,
+	"bathurst": 79,
+	"mtwashington reverse": 281,
+	"mtwashington climb": 280,
+	"myrtlebeach": 121,
+	"nashville mini": 223,
+	"nashville oval": 115,
+	"nashvilless": 258,
+	"newhampshire legends": 356,
+	"newhampshire oval": 132,
+	"newhampshire chicane": 270,
+	"newhampshire northoval": 353,
+	"newhampshire southoval": 229,
+	"newjersey full": 284,
+	"newjersey chicane": 361,
+	"newjersey firstchicane": 360,
+	"newjersey secondchicane": 262,
+	"newsmyrna": 243,
+	"northwilkesboro 2025": 475,
+	"northwilkesboro": 122,
+	"nurburgring combined": 93,
+	"nurburgring combinedLong": 92,
+	"nurburgring combinedShortA": 183,
+	"nurburgring combinedShortB": 94,
+	"nurburgring gpnochicane": 100,
+	"nurburgring gp": 66,
+	"nurburgring gpshort": 265,
+	"nurburgring sprintshort": 260,
+	"nurburgring mullenbachschleife": 272,
+	"nurburgring sprintchicane": 203,
+	"nurburgring nordschleife": 75,
+	"nurburgring nordschleifetourist": 68,
+	"okayama full": 69,
+	"okayama short": 84,
+	"oran gp": 99,
+	"oran moto": 259,
+	"oran north": 283,
+	"oran northa": 244,
+	"oran northb": 216,
+	"oran south": 165,
+	"oswego dirtoval": 443,
+	"oswego mini": 440,
+	"oswego oval": 439,
+	"oulton fosters": 163,
+	"oulton fosterswithhislop": 248,
+	"oulton international": 96,
+	"oulton intbrittens": 209,
+	"oulton intnochicane": 102,
+	"oulton inthislop": 127,
+	"oulton island": 230,
+	"oulton islandhistoric": 241,
+	"oxford oval": 213,
+	"phillipisland": 125,
+	"phoenix rallycross nojoker": 392,
+	"phoenix oval": 42,
+	"phoenix rallycross": 47,
+	"phoenix road": 235,
+	"phoenix 2021 oval": 318,
+	"phoenix 2021 ovalopen": 309,
+	"pocono 2016": 220,
+	"pocono east": 146,
+	"pocono international": 278,
+	"pocono north": 276,
+	"pocono oval": 133,
+	"pocono south": 352,
+	"portroyal": 378,
+	"portland full": 454,
+	"portland nochicane": 455,
+	"spielberg gp": 253,
+	"spielberg national": 257,
+	"spielberg north": 254,
+	"richmond 2025": 464,
+	"roadamerica bend": 321,
+	"roadamerica full": 49,
+	"roadatlanta club": 178,
+	"roadatlanta full": 40,
+	"roadatlanta short": 158,
+	"rockingham infroad": 354,
+	"rockingham 2025 oval": 501,
+	"rockingham oval": 137,
+	"rockingham road": 350,
+	"rockingham shortroad": 371,
+	"rudskogen": 382,
+	"sachsenring": 441,
+	"sandown": 375,
+	"sebring club": 168,
+	"sebring international": 35,
+	"sebring modified": 190,
+	"thebend east": 458,
+	"thebend gt": 456,
+	"thebend international": 457,
+	"thebend southwest": 462,
+	"thebend sprint": 461,
+	"thebend west": 459,
+	"thebend westplus": 460,
+	"silverstone gp": 62,
+	"silverstone historicgp": 130,
+	"silverstone international": 192,
+	"silverstone national": 118,
+	"silverstone southern": 299,
+	"silverstone 2019 gp": 80,
+	"silverstone 2019 international": 292,
+	"silverstone 2019 national": 50,
+	"slinger figure8": 421,
+	"slinger oval": 420,
+	"snetterton 100": 277,
+	"snetterton 200": 301,
+	"snetterton 300": 135,
+	"sonoma long": 37,
+	"sonoma 2025 nascarlong": 479,
+	"sonoma cup": 480,
+	"sonoma 2025 nascarshort": 111,
+	"sonoma irl2": 107,
+	"sonoma 2025 irl08": 477,
+	"sonoma indycar": 239,
+	"sonoma 2025 irl12": 478,
+	"sonoma irl": 311,
+	"sonoma 2025 irl05": 476,
+	"sonoma rallycross": 156,
+	"southboston": 45,
+	"southernnational": 108,
+	"stafford oval": 302,
+	"stafford short": 427,
+	"summit jefferson": 89,
+	"summit jefferson rev": 225,
+	"summit summit oval": 422,
+	"summit summit raceway school": 322,
+	"summit summit short": 238,
+	"summit summit raceway": 88,
+	"suzuka east": 82,
+	"suzuka grandprix": 57,
+	"suzuka moto": 338,
+	"suzuka west": 151,
+	"suzuka westchicane": 303,
+	"talladega": 119,
+	"texas legendsoval": 372,
+	"texas oval": 134,
+	"texas roadcourse": 247,
+	"texas infieldrclong": 139,
+	"texas infieldrcshorta": 373,
+	"texas infieldrcshortb": 336,
+	"texas 2020 legendsoval": 320,
+	"texas 2020 oval": 188,
+	"bullring": 207,
+	"charlottedirt": 205,
+	"milwaukee": 140,
+	"thompson": 144,
+	"thruxton": 453,
+	"tsukuba 1kchicane": 199,
+	"tsukuba 1kfull": 32,
+	"tsukuba 1kouter": 33,
+	"tsukuba 1kreverse": 268,
+	"tsukuba 2kfull": 73,
+	"tsukuba 2kchicane": 110,
+	"tsukuba 2kshort": 160,
+	"lakeland": 81,
+	"lakeland dirt": 48,
+	"virginia 2022 full": 393,
+	"virginia 2022 grand": 394,
+	"virginia 2022 north": 395,
+	"virginia 2022 patriot": 397,
+	"virginia 2022 south": 396,
+	"volusia": 218,
+	"watkinsglen 2021 fullcourse": 324,
+	"watkinsglen 2021 classic": 333,
+	"watkinsglen 2021 fullnoloop": 329,
+	"watkinsglen 2021 cupcircuit": 326,
+	"lagunaseca": 34,
+	"lagunaseca school": 106,
+	"weedsport": 201,
+	"wildwest": 193,
+	"williamsgrove": 215,
+	"willow": 406,
+	"winton club": 359,
+	"winton national": 357,
+	"winton rallycross": 500,
+	"gateway 2025 oval": 474,
+	"gateway oval": 148,
+	"gateway road": 344
   },
 
   "cars": {
     "1": "Porsche Cayman GT4",
-    "2": "Dallara Formula Three"
+	"2": "Dallara Formula Three",
+	"3": "Skip Barber 2000",
+	"4": "Legends Ford Coupe",
+	"5": "Ferrari 488 GTE",
+	"6": "Porsche 911 RSR",
+	"7": "Lotus Type 49",
+	"8": "Mazda MX5 Cup",
+	"9": "Audi RS3 TCR",
+	"10": "Dallara Indy DW12",
+	"11": "Porsche GT3 Cup",
+	"12": "Street Stock Dirt",
+	"13": "NASCAR Chevy Silverado",
+	"14": "Volkswagen Beetle Classic",
+	"15": "Street Stock Asphalt",
+	"16": "Lucas Pro2 Lite",
+	"17": "Holden ZB Commodore",
+	"18": "BMW Z4 GT3",
+	"19": "Radical SR8 Sports",
+	"20": "Ferrari 488 GT3",
+	"21": "BMW M4 GT4",
+	"22": "HPD ARX Prototype",
+	"23": "Porsche 919 Hybrid",
+	"24": "Mercedes AMG GT3",
+	"25": "McLaren MP4 Formula",
+	"27": "Nissan GTP ZX",
+	"28": "Lotus Type 79",
+	"29": "Dallara P217 LMP2",
+	"30": "Sprint Car 305",
+	"31": "Dallara iR01 Concept",
+	"32": "Dallara IR18 Indy",
+	"33": "BMW M4 GT3",
+	"34": "Lamborghini Huracan EVO",
+	"35": "Renault Formula 2.0",
+	"36": "Spec Racer Ford",
+	"37": "Cadillac CTSV Racecar",
+	"38": "Indy Pro 2000",
+	"39": "McLaren MP412 GT3",
+	"40": "ARCA Chevy Impala",
+	"41": "Xfinity Ford Mustang",
+	"42": "Truck Ford F150",
+	"43": "Aston Martin DBR9",
+	"45": "Audi R8 LMS",
+	"46": "Xfinity Mustang 2016",
+	"47": "Ford Mustang Supercar",
+	"48": "Modified SK Oval",
+	"49": "Pontiac Solstice Roadster",
+	"50": "VW Jetta TDI",
+	"51": "Ford Mustang FR500S",
+	"52": "Lucas Pro2 Truck",
+	"53": "NASCAR Ford Thunderbird",
+	"54": "Cup Mustang Series",
+	"55": "Renault Formula 3.5",
+	"56": "Ford GTE Racer",
+	"57": "Ford Fiesta WRC",
+	"58": "Corvette C6R GT1",
+	"59": "Audi 90 GTO",
+	"60": "Super Late Model",
+	"61": "BMW M8 GTE",
+	"62": "Lucas Pro4 Truck",
+	"63": "Cup Camaro ZL1",
+	"64": "Cup Impala COT",
+	"65": "Dirt Midget Car",
+	"66": "Cup Fusion 2016",
+	"67": "Ruf RT12 Track",
+	"68": "Dirt Legends Coupe",
+	"69": "Sprint Car 410",
+	"70": "Riley Daytona Prototype",
+	"71": "Xfinity Toyota Supra",
+	"72": "USF2000 Series",
+	"73": "Xfinity Chevy Camaro",
+	"74": "Ford GT GT2",
+	"75": "Audi R18 LMP1",
+	"76": "Tour Modified NASCAR",
+	"77": "Subaru WRX STI",
+	"78": "UMP Dirt Modified",
+	"79": "Ford FG Falcon",
+	"80": "Corvette C8R GTE",
+	"81": "McLaren 570S GT4",
+	"82": "Williams FW31 F1",
+	"83": "Kia Optima Sedan",
+	"84": "Holden VF Commodore",
+	"85": "Ford GT GT3",
+	"86": "Xfinity Camaro 2014",
+	"87": "Pro Mazda Racer",
+	"88": "Mazda MX5 2010",
+	"90": "Truck Chevy Silverado",
+	"91": "NASCAR Monte Carlo",
+	"92": "Cup Toyota Camry",
+	"93": "Pro Dirt Late",
+	"94": "Super Dirt Late",
+	"95": "Cup Camaro NextGen",
+	"96": "Cup Mustang NextGen",
+	"97": "Cup Chevy SS",
+	"98": "Limited Dirt Late",
+	"99": "Dirt 358 Modified",
+	"100": "Sprint Car Oval",
+	"101": "Cup Toyota NextGen",
+	"102": "Dirt Big Block",
+	"103": "Sprint Car 360",
+	"104": "Silver Crown Racer",
+	"105": "Ford Falcon 2009",
+	"106": "Ruf RT12 AWD",
+	"107": "Formula Vee Racer",
+	"108": "Porsche GT3 R",
+	"109": "VW Beetle Lite",
+	"110": "Dallara IR05 Indy",
+	"111": "Corvette C7 Prototype",
+	"112": "Mazda MX5 Roadster",
+	"113": "Sprint Car NW410",
+	"114": "Sprint Car NW360",
+	"115": "Legends Coupe Rookie",
+	"116": "Ruf RT12 CSpec",
+	"117": "Ruf RT12 RWD",
+	"118": "Solstice Rookie Car",
+	"119": "Xfinity Toyota Camry",
+	"120": "Nationwide Chevy Impala",
+	"121": "Porsche GT3 Cup",
+	"122": "Ferrari 488 Evo",
+	"123": "Mercedes W12 Hybrid",
+	"124": "Hyundai Elantra TCR",
+	"125": "Honda Civic TCR",
+	"127": "FIA Formula Four",
+	"128": "Stock Toyota Corolla",
+	"129": "Stock Chevy Cruze",
+	"130": "Aston Vantage GT4",
+	"131": "Hyundai Veloster TCR",
+	"132": "Truck Toyota Tundra",
+	"133": "NASCAR Buick LeSabre",
+	"135": "Mercedes AMG GT3",
+	"136": "Mercedes AMG GT4",
+	"137": "Radical SR10 Racer",
+	"141": "Porsche Mission R",
+	"143": "BMW Hybrid V8",
+	"144": "Mercedes W13 Hybrid",
+	"145": "Toyota GR86 Coupe",
+	"146": "Renault Clio Hatch",
+	"147": "Ray FF1600 Racer",
+	"148": "Late Model Stock",
+	"149": "Gen4 Cup Car",
+	"150": "Ligier JS P320",
+	"151": "Cadillac VSeries GTP",
+	"152": "Porsche GT3 R",
+	"153": "Acura ARX06 GTP",
+	"154": "Super Formula Toyota",
+	"155": "Ferrari 296 GT3",
+	"156": "Porsche 963 GTP",
+	"157": "NASCAR Pontiac Grand",
+	"159": "Super Formula Honda",
+	"160": "Audi R8 EVO",
+	"161": "Super Formula Lights",
+	"162": "SRX Stock Car",
+	"163": "Micro Sprint Winged",
+	"164": "Micro Sprint NonWing",
+	"165": "Outlaw Sprint Winged",
+	"166": "Outlaw Sprint NonWing",
+	"168": "Corvette Z06 GT3",
+	"169": "Ford Mustang GT3",
+	"170": "Street Stock Casino",
+	"171": "Street Stock Eagle",
+	"172": "BMW M4 GT4",
+	"173": "Mini Stock Car",
+	"174": "Dirt Mini Stock",
+	"175": "McLaren 720S EVO",
+	"176": "Ford Mustang Gen3",
+	"177": "Chevy Camaro Gen3",
+	"178": "Acura NSX EVO",
+	"179": "BMW M2 CSR",
+	"180": "Ferrari 499P Hypercar",
+	"182": "ARCA Chevy SS",
+	"183": "ARCA Ford Mustang",
+	"184": "ARCA Toyota Camry",
+	"186": "Gen4 Monte Carlo",
+	"187": "Gen4 Ford Taurus",
+	"188": "Ferrari 296 Challenge",
+	"190": "Ford Mustang GT4",
+	"191": "Dallara IL15 Indy",
+	"192": "Aston Vantage EVO",
+	"193": "FIA Cross Car",
+	"194": "Porsche GT3 Cup"
   },
 
   "carMap": {
-    "porsche718gt4": {
-      "NormalId": 1,
-      "AltId": -1
-    },
-    "dallaraf3": {
-      "NormalId": 2,
-      "AltId": 2
-    }
+	"porsche718gt4": {
+	 "NormalId": 1,
+	 "AltId": -1
+	},
+	"dallaraf3": {
+	 "NormalId": 2,
+	 "AltId": 2
+	},
+	"rt2000": {
+	 "NormalId": 3,
+	 "AltId": 3
+	},
+	"legends ford34c": {
+	 "NormalId": 4,
+	 "AltId": 4
+	},
+	"ferrari488gte": {
+	 "NormalId": 5,
+	 "AltId": -3
+	},
+	"porsche991rsr": {
+	 "NormalId": 6,
+	 "AltId": -3
+	},
+	"lotus49": {
+	 "NormalId": 7,
+	 "AltId": 7
+	},
+	"mx5 mx52016": {
+	 "NormalId": 8,
+	 "AltId": 8
+	},
+	"audirs3lms": {
+	 "NormalId": 9,
+	 "AltId": -12
+	},
+	"dallaradw12": {
+	 "NormalId": 10,
+	 "AltId": 10
+	},
+	"porsche911cup": {
+	 "NormalId": 11,
+	 "AltId": 11
+	},
+	"dirtstreetstock": {
+	 "NormalId": 12,
+	 "AltId": 12
+	},
+	"trucks silverado": {
+	 "NormalId": 13,
+	 "AltId": 13
+	},
+	"vwbeetlegrc": {
+	 "NormalId": 14,
+	 "AltId": -8
+	},
+	"streetstock": {
+	 "NormalId": 15,
+	 "AltId": -59467
+	},
+	"protrucks pro2lite": {
+	 "NormalId": 16,
+	 "AltId": 16
+	},
+	"v8supercars holden2019": {
+	 "NormalId": 17,
+	 "AltId": 17
+	},
+	"bmwz4gt3": {
+	 "NormalId": 18,
+	 "AltId": -2
+	},
+	"radical sr8": {
+	 "NormalId": 19,
+	 "AltId": 19
+	},
+	"ferrari488gt3": {
+	 "NormalId": 20,
+	 "AltId": -2
+	},
+	"bmwm4gt4": {
+	 "NormalId": 21,
+	 "AltId": 21
+	},
+	"hpdarx01c": {
+	 "NormalId": 22,
+	 "AltId": 22
+	},
+	"porsche919": {
+	 "NormalId": 23,
+	 "AltId": 23
+	},
+	"mercedesamggt3": {
+	 "NormalId": 24,
+	 "AltId": -2
+	},
+	"mclarenmp430": {
+	 "NormalId": 25,
+	 "AltId": 25
+	},
+	"nissangtpzxt": {
+	 "NormalId": 27,
+	 "AltId": 27
+	},
+	"lotus79": {
+	 "NormalId": 28,
+	 "AltId": 28
+	},
+	"dallarap217": {
+	 "NormalId": 29,
+	 "AltId": 29
+	},
+	"dirtsprint winged 305": {
+	 "NormalId": 30,
+	 "AltId": 30
+	},
+	"dallarair01": {
+	 "NormalId": 31,
+	 "AltId": 31
+	},
+	"dallarair18": {
+	 "NormalId": 32,
+	 "AltId": 32
+	},
+	"bmwm4gt3": {
+	 "NormalId": 33,
+	 "AltId": -2
+	},
+	"lamborghinievogt3": {
+	 "NormalId": 34,
+	 "AltId": -2
+	},
+	"formularenault20": {
+	 "NormalId": 35,
+	 "AltId": 35
+	},
+	"specracer": {
+	 "NormalId": 36,
+	 "AltId": 36
+	},
+	"cadillacctsvr": {
+	 "NormalId": 37,
+	 "AltId": 37
+	},
+	"indypropm18": {
+	 "NormalId": 38,
+	 "AltId": 38
+	},
+	"mclarenmp4": {
+	 "NormalId": 39,
+	 "AltId": 39
+	},
+	"stockcars2 chevy": {
+	 "NormalId": 40,
+	 "AltId": 40
+	},
+	"stockcars2 mustang2019": {
+	 "NormalId": 41,
+	 "AltId": -11
+	},
+	"trucks fordf150": {
+	 "NormalId": 42,
+	 "AltId": -7
+	},
+	"astonmartin dbr9": {
+	 "NormalId": 43,
+	 "AltId": 43
+	},
+	"audir8gt3": {
+	 "NormalId": 45,
+	 "AltId": -2
+	},
+	"stockcars2 nwford2013": {
+	 "NormalId": 46,
+	 "AltId": 46
+	},
+	"v8supercars fordmustanggt": {
+	 "NormalId": 47,
+	 "AltId": 47
+	},
+	"skmodified": {
+	 "NormalId": 48,
+	 "AltId": 48
+	},
+	"solstice": {
+	 "NormalId": 49,
+	 "AltId": 49
+	},
+	"jettatdi": {
+	 "NormalId": 50,
+	 "AltId": 50
+	},
+	"fr500s": {
+	 "NormalId": 51,
+	 "AltId": 51
+	},
+	"protrucks pro2truck": {
+	 "NormalId": 52,
+	 "AltId": 52
+	},
+	"stockcars fordthunderbird87": {
+	 "NormalId": 53,
+	 "AltId": -10
+	},
+	"stockcars fordmustang2019": {
+	 "NormalId": 54,
+	 "AltId": -5
+	},
+	"formularenault35": {
+	 "NormalId": 55,
+	 "AltId": 55
+	},
+	"fordgt2017": {
+	 "NormalId": 56,
+	 "AltId": -3
+	},
+	"fordfiestarswrc": {
+	 "NormalId": 57,
+	 "AltId": -8
+	},
+	"c6r": {
+	 "NormalId": 58,
+	 "AltId": 58
+	},
+	"audi90gto": {
+	 "NormalId": 59,
+	 "AltId": 59
+	},
+	"superlatemodel": {
+	 "NormalId": 60,
+	 "AltId": 60
+	},
+	"bmwm8gte": {
+	 "NormalId": 61,
+	 "AltId": -3
+	},
+	"protrucks pro4truck": {
+	 "NormalId": 62,
+	 "AltId": 62
+	},
+	"stockcars camarozl12018": {
+	 "NormalId": 63,
+	 "AltId": -5
+	},
+	"stockcars impala": {
+	 "NormalId": 64,
+	 "AltId": 64
+	},
+	"dirtmidget": {
+	 "NormalId": 65,
+	 "AltId": 65
+	},
+	"stockcars fordfusion": {
+	 "NormalId": 66,
+	 "AltId": 66
+	},
+	"rufrt12r track": {
+	 "NormalId": 67,
+	 "AltId": 67
+	},
+	"legends dirtford34c": {
+	 "NormalId": 68,
+	 "AltId": 68
+	},
+	"dirtsprint winged 410": {
+	 "NormalId": 69,
+	 "AltId": 69
+	},
+	"rileydp": {
+	 "NormalId": 70,
+	 "AltId": 70
+	},
+	"stockcars2 supra2019": {
+	 "NormalId": 71,
+	 "AltId": -11
+	},
+	"usf2000usf17": {
+	 "NormalId": 72,
+	 "AltId": 72
+	},
+	"stockcars2 camaro2019": {
+	 "NormalId": 73,
+	 "AltId": -11
+	},
+	"fordgt": {
+	 "NormalId": 74,
+	 "AltId": 74
+	},
+	"audir18": {
+	 "NormalId": 75,
+	 "AltId": 75
+	},
+	"skmodified tour": {
+	 "NormalId": 76,
+	 "AltId": 76
+	},
+	"subaruwrxsti": {
+	 "NormalId": 77,
+	 "AltId": -8
+	},
+	"dirtumpmod": {
+	 "NormalId": 78,
+	 "AltId": 78
+	},
+	"v8supercars ford2014": {
+	 "NormalId": 79,
+	 "AltId": 79
+	},
+	"c8rvettegte": {
+	 "NormalId": 80,
+	 "AltId": -3
+	},
+	"mclaren570sgt4": {
+	 "NormalId": 81,
+	 "AltId": -1
+	},
+	"williamsfw31": {
+	 "NormalId": 82,
+	 "AltId": 82
+	},
+	"kiaoptima": {
+	 "NormalId": 83,
+	 "AltId": 83
+	},
+	"v8supercars holden2014": {
+	 "NormalId": 84,
+	 "AltId": 84
+	},
+	"fordgt gt3": {
+	 "NormalId": 85,
+	 "AltId": 85
+	},
+	"stockcars2 nwcamaro2014": {
+	 "NormalId": 86,
+	 "AltId": 86
+	},
+	"formulamazda": {
+	 "NormalId": 87,
+	 "AltId": 87
+	},
+	"mx5 cup": {
+	 "NormalId": 88,
+	 "AltId": 88
+	},
+	"trucks silverado2019": {
+	 "NormalId": 90,
+	 "AltId": -7
+	},
+	"stockcars chevymontecarlo87": {
+	 "NormalId": 91,
+	 "AltId": -10
+	},
+	"stockcars toyotacamry": {
+	 "NormalId": 92,
+	 "AltId": -5
+	},
+	"dirtlatemodel 358": {
+	 "NormalId": 93,
+	 "AltId": 93
+	},
+	"dirtlatemodel 438": {
+	 "NormalId": 94,
+	 "AltId": 94
+	},
+	"stockcars camarozl12022": {
+	 "NormalId": 95,
+	 "AltId": -6
+	},
+	"stockcars fordmustang2022": {
+	 "NormalId": 96,
+	 "AltId": -6
+	},
+	"stockcars chevyss": {
+	 "NormalId": 97,
+	 "AltId": 97
+	},
+	"dirtlatemodel 350": {
+	 "NormalId": 98,
+	 "AltId": 98
+	},
+	"dirtmodified 358": {
+	 "NormalId": 99,
+	 "AltId": 99
+	},
+	"sprint": {
+	 "NormalId": 100,
+	 "AltId": 100
+	},
+	"stockcars toyotacamry2022": {
+	 "NormalId": 101,
+	 "AltId": -6
+	},
+	"dirtmodified bigblock": {
+	 "NormalId": 102,
+	 "AltId": 102
+	},
+	"dirtsprint winged 360": {
+	 "NormalId": 103,
+	 "AltId": 103
+	},
+	"silvercrown": {
+	 "NormalId": 104,
+	 "AltId": 104
+	},
+	"fordv8sc": {
+	 "NormalId": 105,
+	 "AltId": 105
+	},
+	"rufrt12r awd": {
+	 "NormalId": 106,
+	 "AltId": 106
+	},
+	"formulavee": {
+	 "NormalId": 107,
+	 "AltId": 107
+	},
+	"porsche911rgt3": {
+	 "NormalId": 108,
+	 "AltId": 108
+	},
+	"vwbeetlegrc lite": {
+	 "NormalId": 109,
+	 "AltId": 109
+	},
+	"dallara": {
+	 "NormalId": 110,
+	 "AltId": 110
+	},
+	"c7vettedp": {
+	 "NormalId": 111,
+	 "AltId": 111
+	},
+	"mx5 roadster": {
+	 "NormalId": 112,
+	 "AltId": 112
+	},
+	"dirtsprint nonwinged 410": {
+	 "NormalId": 113,
+	 "AltId": 113
+	},
+	"dirtsprint nonwinged 360": {
+	 "NormalId": 114,
+	 "AltId": 114
+	},
+	"legends ford34c rookie": {
+	 "NormalId": 115,
+	 "AltId": 115
+	},
+	"rufrt12r track cspec": {
+	 "NormalId": 116,
+	 "AltId": 116
+	},
+	"rufrt12r rwd": {
+	 "NormalId": 117,
+	 "AltId": 117
+	},
+	"solstice rookie": {
+	 "NormalId": 118,
+	 "AltId": 118
+	},
+	"stockcars2 camry2015": {
+	 "NormalId": 119,
+	 "AltId": 119
+	},
+	"stockcars2 chevy cot": {
+	 "NormalId": 120,
+	 "AltId": 120
+	},
+	"porsche992cup": {
+	 "NormalId": 121,
+	 "AltId": 121
+	},
+	"ferrarievogt3": {
+	 "NormalId": 122,
+	 "AltId": 122
+	},
+	"mercedesw12": {
+	 "NormalId": 123,
+	 "AltId": 123
+	},
+	"hyundaielantracn7": {
+	 "NormalId": 124,
+	 "AltId": -12
+	},
+	"hondacivictyper": {
+	 "NormalId": 125,
+	 "AltId": -12
+	},
+	"formulair04": {
+	 "NormalId": 127,
+	 "AltId": 127
+	},
+	"stockcarbrasil corolla": {
+	 "NormalId": 128,
+	 "AltId": -6272
+	},
+	"stockcarbrasil cruze": {
+	 "NormalId": 129,
+	 "AltId": -6272
+	},
+	"amvantagegt4": {
+	 "NormalId": 130,
+	 "AltId": -1
+	},
+	"hyundaivelostern": {
+	 "NormalId": 131,
+	 "AltId": -12
+	},
+	"trucks toyotatundra2022": {
+	 "NormalId": 132,
+	 "AltId": -7
+	},
+	"stockcars buicklesabre87": {
+	 "NormalId": 133,
+	 "AltId": -10
+	},
+	"mercedesamgevogt3": {
+	 "NormalId": 135,
+	 "AltId": -2
+	},
+	"mercedesamggt4": {
+	 "NormalId": 136,
+	 "AltId": -1
+	},
+	"radical sr10": {
+	 "NormalId": 137,
+	 "AltId": 137
+	},
+	"porschemissionr": {
+	 "NormalId": 141,
+	 "AltId": 141
+	},
+	"bmwlmdh": {
+	 "NormalId": 143,
+	 "AltId": -47754
+	},
+	"mercedesw13": {
+	 "NormalId": 144,
+	 "AltId": 144
+	},
+	"toyotagr86": {
+	 "NormalId": 145,
+	 "AltId": 145
+	},
+	"renaultcliocup": {
+	 "NormalId": 146,
+	 "AltId": 146
+	},
+	"raygr22": {
+	 "NormalId": 147,
+	 "AltId": 147
+	},
+	"latemodel2023": {
+	 "NormalId": 148,
+	 "AltId": 148
+	},
+	"stockcars2 chevy gen4cup": {
+	 "NormalId": 149,
+	 "AltId": 149
+	},
+	"ligierjsp320": {
+	 "NormalId": 150,
+	 "AltId": 150
+	},
+	"cadillacvseriesgtp": {
+	 "NormalId": 151,
+	 "AltId": -47754
+	},
+	"porsche992rgt3": {
+	 "NormalId": 152,
+	 "AltId": -2
+	},
+	"acuraarx06gtp": {
+	 "NormalId": 153,
+	 "AltId": -47754
+	},
+	"superformulasf23 toyota": {
+	 "NormalId": 154,
+	 "AltId": -47834
+	},
+	"ferrari296gt3": {
+	 "NormalId": 155,
+	 "AltId": -2
+	},
+	"porsche963gtp": {
+	 "NormalId": 156,
+	 "AltId": -47754
+	},
+	"stockcars pontiacgrandprix87": {
+	 "NormalId": 157,
+	 "AltId": -10
+	},
+	"superformulasf23 honda": {
+	 "NormalId": 159,
+	 "AltId": -47834
+	},
+	"audir8lmsevo2gt3": {
+	 "NormalId": 160,
+	 "AltId": -2
+	},
+	"superformulalights324": {
+	 "NormalId": 161,
+	 "AltId": 161
+	},
+	"srx": {
+	 "NormalId": 162,
+	 "AltId": 162
+	},
+	"dirtmicrosprint winged": {
+	 "NormalId": 163,
+	 "AltId": 163
+	},
+	"dirtmicrosprint nonwinged": {
+	 "NormalId": 164,
+	 "AltId": 164
+	},
+	"dirtmicrosprint winged outlaw": {
+	 "NormalId": 165,
+	 "AltId": 165
+	},
+	"dirtmicrosprint nonwinged outlaw": {
+	 "NormalId": 166,
+	 "AltId": 166
+	},
+	"chevycorvettez06rgt3": {
+	 "NormalId": 168,
+	 "AltId": -2
+	},
+	"fordmustanggt3": {
+	 "NormalId": 169,
+	 "AltId": -2
+	},
+	"streetstock streetstock2": {
+	 "NormalId": 170,
+	 "AltId": -59467
+	},
+	"streetstock streetstock3": {
+	 "NormalId": 171,
+	 "AltId": -59467
+	},
+	"bmwm4evogt4": {
+	 "NormalId": 172,
+	 "AltId": -1
+	},
+	"ministock": {
+	 "NormalId": 173,
+	 "AltId": 173
+	},
+	"dirtministock": {
+	 "NormalId": 174,
+	 "AltId": 174
+	},
+	"mclaren720sgt3": {
+	 "NormalId": 175,
+	 "AltId": -2
+	},
+	"supercars fordmustanggen3": {
+	 "NormalId": 176,
+	 "AltId": -77176
+	},
+	"supercars chevycamarogen3": {
+	 "NormalId": 177,
+	 "AltId": -77176
+	},
+	"acuransxevo22gt3": {
+	 "NormalId": 178,
+	 "AltId": -2
+	},
+	"bmwrn2csr": {
+	 "NormalId": 179,
+	 "AltId": 179
+	},
+	"ferrari499p": {
+	 "NormalId": 180,
+	 "AltId": -47754
+	},
+	"stockcars2 arcachevy25": {
+	 "NormalId": 182,
+	 "AltId": 182
+	},
+	"stockcars2 arcaford25": {
+	 "NormalId": 183,
+	 "AltId": 183
+	},
+	"stockcars2 arcatoyota25": {
+	 "NormalId": 184,
+	 "AltId": 184
+	},
+	"stockcars chevymontecarlo03": {
+	 "NormalId": 186,
+	 "AltId": -94132
+	},
+	"stockcars fordtaurus03": {
+	 "NormalId": 187,
+	 "AltId": -94132
+	},
+	"ferrari296challenge": {
+	 "NormalId": 188,
+	 "AltId": 188
+	},
+	"fordmustanggt4": {
+	 "NormalId": 190,
+	 "AltId": -1
+	},
+	"dallarail15": {
+	 "NormalId": 191,
+	 "AltId": 191
+	},
+	"amvantagegt3": {
+	 "NormalId": 192,
+	 "AltId": -2
+	},
+	"crosscartn11": {
+	 "NormalId": 193,
+	 "AltId": 193
+	},
+	"porsche9922cup": {
+	 "NormalId": 194,
+	 "AltId": 194
+	}
   }
 }
