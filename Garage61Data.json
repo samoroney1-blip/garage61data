@@ -1,0 +1,22 @@
+{
+  "tracks": {
+    "algarve gp": 425,
+    "algarve gpchicane": 428
+  },
+
+  "cars": {
+    "1": "Porsche Cayman GT4",
+    "2": "Dallara Formula Three"
+  },
+
+  "carMap": {
+    "porsche718gt4": {
+      "NormalId": 1,
+      "AltId": -1
+    },
+    "dallaraf3": {
+      "NormalId": 2,
+      "AltId": 2
+    }
+  }
+}
