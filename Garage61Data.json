@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 3.1,
 
   "tracks": {
     "adelaide": 498,
@@ -351,7 +351,7 @@
 	"sachsenring": 441,
 	"sandown": 375,
 	"sebring club": 168,
-	"sebring international-International": 35,
+	"sebring international": 35,
 	"sebring modified": 190,
 	"thebend east": 458,
 	"thebend gt": 456,
@@ -1352,6 +1352,7 @@
 	}
   }
 }
+
 
 
 
